@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Stevan Nikolić
-N:Nikolić;Stevan;;;
-ORG:TERI Engineering
-TITLE:System Engineer
-TEL;TYPE=cell:+381648109062
-EMAIL;TYPE=work:stevann@terieng.co.rs
-URL:https://terieng.co.rs
-ADR;TYPE=work:;;Jurija Gagarina 153A;Belgrade;;11070;Serbia
+FN:Svetlana Nikolić
+N:Nikolić;Svetlana;;;
+ORG:Fratelli Babb d.o.o.
+TEL;TYPE=cell:+381638585852
+EMAIL;TYPE=work:svetlana69nikolic@gmail.com
+URL:https://fratellibabb.rs/
+ADR;TYPE=work:;;Industrijska zona 9;Obrenovac;;11500;Srbija
 END:VCARD
+
